@@ -61,13 +61,7 @@ System.out.print(c[i][j]+" ");  //printing matrix element
 System.out.println();//new line    
 }    
 }} 
-//asdfasdfasdf
-asdfasdfasdfsdf
-asdfasdfasdfasdf
-asdfasdfasdfasdfasdf
-asdfasdfasdfasdfasdfasdf
-asdfasdfasdfasdfasdf
-//Vara Prasad Changes
+
 int a[][]={{1,1,1},{2,2,2},{3,3,3}};    
 int b[][]={{1,1,1},{2,2,2},{3,3,3}};    
     
